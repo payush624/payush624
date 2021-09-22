@@ -15,7 +15,9 @@
 
 
 #### Hi, i'm Ayush Patel, a self-taught Data Analyst and SQL enthusiast from India.
-
+  
+  
+### ✨ About Me ✨
 - 🔭 I’m currently working as a Operation Executive in Mumbai, India
 - 🌱 I’m currently learning Data Analysis and Statistics
 - 📚 I Love Data Cleaning and using Excel,Sheets for my day to day work.
