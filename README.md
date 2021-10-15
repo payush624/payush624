@@ -21,7 +21,7 @@
 ### ✨ About Me ✨
 - 🔭 I’m currently working as an Operation Executive in Mumbai, India
 - 🌱 I’m currently learning Data Analysis and Statistics
-- 📚 I Love Data Cleaning and using Excel,Sheets for my day to day work.
+- 📚 I Love Data Cleaning and using Excel, G-Sheets for my day to day work.
   
   
 
@@ -38,7 +38,7 @@
   
   
   
-💬 ask me about anything, i am happy to help;
+💬 ask me about anything, i am happy to help :)
   
 Check out my other works, [Here](https://github.com/payush624?tab=repositories)
   
