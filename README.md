@@ -8,8 +8,9 @@
 <a href="https://www.linkedin.com/in/ayushpat3l/">
   <img align="left" alt="Ayush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <a href="mailto:ayushpatelinfo@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/>
+</a>
+
 
 
 
@@ -29,12 +30,13 @@
 - Skills: Data Cleaning, Exploratory Data Analysis, Data Visualization
  
 ### 📚 Projects & Other Works
-- Click **[HERE](https://github.com/payush624/Projects)** to check out my Projects and some other interesting work!
+- Check [this](https://github.com/payush624/Projects) to check out my projects and other interesting works!
 
  
 🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/ayushpat3l/)!  
+💼 any freelance work? do reach me [ayushpatelinfo@gmail.com](mailto:ayushpatelinfo@gmail.com) :)    
   
-💼 any freelance work? do reach, [ayushpatelinfo@gmail.com](mailto:ayushpatelinfo@gmail.com) :)  
+  
   
 💬 ask me about anything, i am happy to help;
   
