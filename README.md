@@ -34,7 +34,7 @@
  
 🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/ayushpat3l/)!  
   
-💼 any freelance work? do reach, [ayushpatelinfo@gmail.com](mailto:ayushpatelinfo@gmail.com) :)  
+💼 any freelance work? do reach me :)  
   
 💬 ask me about anything, i am happy to help;
   
