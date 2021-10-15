@@ -29,7 +29,7 @@
 - Skills: Data Cleaning, Exploratory Data Analysis, Data Visualization
  
 ### 📚 Projects & Other Works
-- Click [HERE](https://github.com/payush624/Projects) to check out my Projects and some other interesting work!
+- Click [Here](https://github.com/payush624/Projects) to check out my Projects and some other interesting work!
 
  
 🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/ayushpat3l/)!  
