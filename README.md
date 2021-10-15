@@ -8,7 +8,8 @@
 <a href="https://www.linkedin.com/in/ayushpat3l/">
   <img align="left" alt="Ayush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<a href="mailto:ayushpatelinfo@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/>
+</a>
 
 
 
