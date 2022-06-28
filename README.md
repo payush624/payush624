@@ -19,7 +19,6 @@
   
   
 ### ✨ About Me ✨
-- 🔭 I’m currently working as an Operation Executive in Mumbai, India
 - 🌱 I’m currently learning Data Analysis and Statistics
 - 📚 I Love Data Cleaning and using Excel, G-Sheets for my day to day work.
   
